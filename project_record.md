@@ -1,5 +1,7 @@
 3/7
+
 * 建立 GitHub 平台帳號
+
 * 音訊處理與辨識初探
 
     * 音高 Pitch
@@ -8,3 +10,27 @@
     * 高階函式 Higher-Order Function
     * 自相關函數 ( 音框偏移的關係式 ) Auto-Correlation Function
     * 時域與頻域 Time Domain and Frequency Domain
+
+
+3/14
+
+* 撰寫教授信（尚未寄出）
+
+* MATLAB 語言學習
+
+* 音訊處理與辨識初探
+
+    * Time-Domain PDF
+
+        * 偏移內積函數 Auto-correlation Function
+        * 方均根差函數 Normalized Squared Difference Function
+        * 絕對差值函數Average Magnitude Differrence Function
+
+    * Frequency-Domain PDF
+
+        * 補零 Zero Padding
+
+    * How to improve pitch resolution
+
+        * 向上取樣 Up Sampling
+        * 內插法 Interpolation
