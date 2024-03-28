@@ -63,4 +63,24 @@
         
         * 方均根差函數 Normalized Square Difference Function
         
-        * 絕對差值函數Average Magnitude Differrence Function
+        * 絕對差值函數 Average Magnitude Differrence Function
+
+3/28
+
+* 3月報告
+
+* Matlab 新手教學
+
+    * Plot 與 SubPlot 函數
+
+    * Doc 函數
+
+    * Help 函數
+
+* 音訊處理與辨識初探
+
+    * 離散時間訊號 (DTS)
+
+    * 線性非時變系統 (LTIS)
+
+    * 旋積 Convolution
