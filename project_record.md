@@ -84,3 +84,15 @@
     * 線性非時變系統 (LTIS)
 
     * 旋積 Convolution
+
+4/11
+
+* Matlab 新手教學
+
+    * Logical Arrays
+
+    * Programming
+
+    * Final project-Stellar motion
+
+
