@@ -96,3 +96,20 @@
     * Final project-Stellar motion
 
 
+5/2
+
+* Matlab 新手教學 完成
+
+* MatLab GUI explore
+
+    * Button
+    
+    * Numeric Slider
+
+    * State Button
+
+    * File Browser
+
+* MatLab "wavrecord" function
+
+
